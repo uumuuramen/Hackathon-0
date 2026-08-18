@@ -116,8 +116,10 @@ git bundle list-heads incidente/equipo-<X>.bundle
 
 Antes de seguir, respondan estas dos en el issue:
 
-1. ¿Cuántas referencias trae la cinta, y cuántas de ellas **no** son ramas?
-2. Una vez montada, ¿cuántos commits tiene su rama principal y quién los firmó?
+1. ¿Cuántas referencias trae la cinta, y cuántas de ellas **no** son ramas? 
+2. Una vez montada, ¿cuántos commits tiene su rama principal y quién los firmó? 2
+- Micaela Soledad
+- Luis Huapaya
 
 ---
 
@@ -136,7 +138,7 @@ Cada fragmento es un bloque de texto con este aspecto:
 ======================================
    ARCHIVO 2031 - FRAGMENTO 0X/02
 ======================================
-origen : ...
+origen : 
 palabra: ...
 codigo : ...
 --------------------------------------
